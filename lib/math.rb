@@ -4,26 +4,25 @@ def addition(num1, num2)
 end
 
 def subtraction(num1, num2)
-  sum = num1 + num2
-  return sum 
+  dif = num1 - num2
+  return dif 
 end
 
 def division(num1, num2)
-  sum = num1 + num2
-  return sum 
+  quo = num1 / num2
+  return quo 
 end
 
 def multiplication(num1, num2)
-  sum = num1 + num2
-  return sum 
+  pro = num1 * num2
+  return pro 
 end
 
 def modulo(num1, num2)
-  sum = num1 + num2
-  return sum 
+  mod = num1 % num2
+  return mod 
 end
 
 def square_root(num)
-  sum = num1 + num2
-  return sum 
+  return Math.sqrt(num) 
 end
